@@ -42,6 +42,7 @@
 		5A2FD0C725AFF36D0066DA45 /* dev_exprence.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = dev_exprence.md; sourceTree = "<group>"; };
 		5A2FD0C825B01C6A0066DA45 /* ads.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ads.md; sourceTree = "<group>"; };
 		5A2FD0CE25B035940066DA45 /* runtime.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = runtime.md; sourceTree = "<group>"; };
+		5A2FD0D125B07A630066DA45 /* crypt.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = crypt.md; sourceTree = "<group>"; };
 		5AA57ADC246D29D90061A236 /* test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AA57ADF246D29D90061A236 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5AA57AE1246D29D90061A236 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -118,6 +119,7 @@
 		5AA57AD3246D29D80061A236 = {
 			isa = PBXGroup;
 			children = (
+				5A2FD0D125B07A630066DA45 /* crypt.md */,
 				5A2FD0CE25B035940066DA45 /* runtime.md */,
 				5A2FD0C825B01C6A0066DA45 /* ads.md */,
 				5A2FD0C725AFF36D0066DA45 /* dev_exprence.md */,
