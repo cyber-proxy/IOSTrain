@@ -1,0 +1,5 @@
+Pods
+*.xcworkspacedata
+test.xcworkspace/xcshareddata
+test.xcworkspace/xcuserdata/licheng.xcuserdatad
+test.xcodeproj/project.xcworkspace/xcuserdata/licheng.xcuserdatad

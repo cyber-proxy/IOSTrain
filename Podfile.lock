@@ -1,0 +1,111 @@
+PODS:
+  - Alamofire (5.2.2)
+  - AppsFlyerFramework (5.4.4)
+  - Closures (0.7)
+  - CryptoSwift (1.3.7)
+  - HandyJSON (5.0.2)
+  - KeychainSwift (19.0.0)
+  - Kingfisher (5.15.7):
+    - Kingfisher/Core (= 5.15.7)
+  - Kingfisher/Core (5.15.7)
+  - KingfisherWebP (0.7.0):
+    - Kingfisher (~> 5.8)
+    - libwebp (>= 0.5.0)
+  - libwebp (1.1.0):
+    - libwebp/demux (= 1.1.0)
+    - libwebp/mux (= 1.1.0)
+    - libwebp/webp (= 1.1.0)
+  - libwebp/demux (1.1.0):
+    - libwebp/webp
+  - libwebp/mux (1.1.0):
+    - libwebp/demux
+  - libwebp/webp (1.1.0)
+  - lottie-ios (3.1.9)
+  - MCToast (0.1.0):
+    - lottie-ios
+  - PullToRefreshKit (0.8.8)
+  - SnapKit (5.0.1)
+  - SwifterSwift (5.2.0):
+    - SwifterSwift/AppKit (= 5.2.0)
+    - SwifterSwift/CoreAnimation (= 5.2.0)
+    - SwifterSwift/CoreGraphics (= 5.2.0)
+    - SwifterSwift/CoreLocation (= 5.2.0)
+    - SwifterSwift/Dispatch (= 5.2.0)
+    - SwifterSwift/Foundation (= 5.2.0)
+    - SwifterSwift/MapKit (= 5.2.0)
+    - SwifterSwift/SceneKit (= 5.2.0)
+    - SwifterSwift/SpriteKit (= 5.2.0)
+    - SwifterSwift/StoreKit (= 5.2.0)
+    - SwifterSwift/SwiftStdlib (= 5.2.0)
+    - SwifterSwift/UIKit (= 5.2.0)
+  - SwifterSwift/AppKit (5.2.0)
+  - SwifterSwift/CoreAnimation (5.2.0)
+  - SwifterSwift/CoreGraphics (5.2.0)
+  - SwifterSwift/CoreLocation (5.2.0)
+  - SwifterSwift/Dispatch (5.2.0)
+  - SwifterSwift/Foundation (5.2.0)
+  - SwifterSwift/MapKit (5.2.0)
+  - SwifterSwift/SceneKit (5.2.0)
+  - SwifterSwift/SpriteKit (5.2.0)
+  - SwifterSwift/StoreKit (5.2.0)
+  - SwifterSwift/SwiftStdlib (5.2.0)
+  - SwifterSwift/UIKit (5.2.0)
+  - SwiftEventBus (5.0.0)
+  - SwiftyStoreKit (0.16.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2.2)
+  - AppsFlyerFramework (~> 5.4.4)
+  - Closures (~> 0.7)
+  - CryptoSwift (~> 1.3.1)
+  - HandyJSON (~> 5.0.2)
+  - KeychainSwift (~> 19.0.0)
+  - Kingfisher
+  - KingfisherWebP (~> 0.7.0)
+  - MCToast (~> 0.1.0)
+  - PullToRefreshKit (~> 0.8.8)
+  - SnapKit (~> 5.0.1)
+  - SwifterSwift (~> 5.2.0)
+  - SwiftEventBus (~> 5.0.0)
+  - SwiftyStoreKit (~> 0.16.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AppsFlyerFramework
+    - Closures
+    - CryptoSwift
+    - HandyJSON
+    - KeychainSwift
+    - Kingfisher
+    - KingfisherWebP
+    - libwebp
+    - lottie-ios
+    - MCToast
+    - PullToRefreshKit
+    - SnapKit
+    - SwifterSwift
+    - SwiftEventBus
+    - SwiftyStoreKit
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  AppsFlyerFramework: a511099f7bedbb1d5804d733c6152d6f8092c4fa
+  Closures: a83b9892a5b1c4125a9dfcd53e2754db5d7f6d22
+  CryptoSwift: b6faad405e69964740422daf121918b5b1870f2b
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  KeychainSwift: a06190cf933ad46b1e0abc3d77d29c06331715c7
+  Kingfisher: 6e1a13523fcb1c86924ce53affe4ac957e544d59
+  KingfisherWebP: 50d8389a48a9004c36e655470ccbff96de1ced9c
+  libwebp: 946cb3063cea9236285f7e9a8505d806d30e07f3
+  lottie-ios: 3a3758ef5a008e762faec9c9d50a39842f26d124
+  MCToast: accd8b0d4653bcd6b3b1a9770802c2358614e6a5
+  PullToRefreshKit: 7cc53e720e69f135cffa1a57784dfb534f0222ab
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwifterSwift: 334181863c416882d97b7a60c05054d9e4d799e2
+  SwiftEventBus: b30f617a6aca5a9336464b4d3f5931034762f2d5
+  SwiftyStoreKit: 6b9c08810269f030586dac1fae8e75871a82e84a
+
+PODFILE CHECKSUM: 8804287b93cfa00e75a72f0fbd1bd3e1068b5bef
+
+COCOAPODS: 1.9.3
