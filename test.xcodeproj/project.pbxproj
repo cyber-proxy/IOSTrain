@@ -41,6 +41,7 @@
 		17FBFB5A808F2D363B09D96E /* Pods-test-testUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-test-testUITests.release.xcconfig"; path = "Target Support Files/Pods-test-testUITests/Pods-test-testUITests.release.xcconfig"; sourceTree = "<group>"; };
 		5A2FD0C725AFF36D0066DA45 /* dev_exprence.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = dev_exprence.md; sourceTree = "<group>"; };
 		5A2FD0C825B01C6A0066DA45 /* ads.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ads.md; sourceTree = "<group>"; };
+		5A2FD0CE25B035940066DA45 /* runtime.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = runtime.md; sourceTree = "<group>"; };
 		5AA57ADC246D29D90061A236 /* test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AA57ADF246D29D90061A236 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5AA57AE1246D29D90061A236 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -117,6 +118,7 @@
 		5AA57AD3246D29D80061A236 = {
 			isa = PBXGroup;
 			children = (
+				5A2FD0CE25B035940066DA45 /* runtime.md */,
 				5A2FD0C825B01C6A0066DA45 /* ads.md */,
 				5A2FD0C725AFF36D0066DA45 /* dev_exprence.md */,
 				5AA57B0F246D35EC0061A236 /* README.md */,
